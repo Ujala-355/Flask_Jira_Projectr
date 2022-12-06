@@ -1,4 +1,4 @@
-# #  https://drive.google.com/file/d/1u0DqXLNUggucmVw1MwrojHmjxMBriI8R/view?usp=sharing
+
 # Flask_Jira_Projectr
 #  Jira
 #  Project management tool.used Jira for bug-tracking and task management.
