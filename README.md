@@ -1,6 +1,6 @@
 
 # Flask_Jira_Projectr
-# # https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fjira-1&psig=AOvVaw0VDmO5Z6ZmeRZ1AnkHR2CO&ust=1670680049598000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDlk6rW7PsCFQAAAAAdAAAAABAD
+## https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fjira-1&psig=AOvVaw0VDmO5Z6ZmeRZ1AnkHR2CO&ust=1670680049598000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDlk6rW7PsCFQAAAAAdAAAAABAD
 #  Jira
 #  Project management tool.used Jira for bug-tracking and task management.
 # In Jira I create API token
