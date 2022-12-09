@@ -1,6 +1,6 @@
 
 # Flask_Jira_Projectr
-![jira](https://user-images.githubusercontent.com/98416834/206724686-7d1972ba-5b4c-4a3a-81e1-05a75c0d8372.png)
+http://www.w3.org/2000/svg
 
 #  Jira
 #  Project management tool.used Jira for bug-tracking and task management.
